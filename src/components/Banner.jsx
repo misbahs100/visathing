@@ -1,6 +1,5 @@
 // Banner.jsx
 import React from 'react';
-import backgroundPattern from '../assets/banner_bg_pattern.svg'; // Adjust the path
 
 const Banner = () => {
   return (
