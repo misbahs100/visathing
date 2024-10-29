@@ -7,6 +7,7 @@ import Discover from './components/Discover'
 import Footer from './components/Footer'
 import Banner from './components/Banner'
 import GrowTeam from './components/GrowTeam'
+import About from './components/About'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Nav />
       <Her />
       <GrowTeam />
+      <About />
     </>
   )
 }
